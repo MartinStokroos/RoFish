@@ -8,7 +8,7 @@
 * URL: https://github.com/MartinStokroos/RoFish
 * License: MIT License
 *
-* The CPG algorithm in the main loop of this program was taken over from Saura[1]. The CPG
+* The CPG algorithm in the main loop of this program was taken over from Garcia-Saura[1]. The CPG
 * parameters were originally chosen for generating walking patterns of a micro-hexapod. In this
 * example, the pattern is modified for a three joint robotic fish.
 *
@@ -16,7 +16,7 @@
 * linked RC-servo motors, are described in literature[2][3].
 *
 * References:
-* [1] Saura, Garcia Carlos (2015). Central Pattern Generators for the control
+* [1] Garcia-Saura, Carlos (2015). Central Pattern Generators for the control
 * of robotic systems. MSc in Computing (Spec. in Artificial Intelligence) Imperial College London.
 *
 * [2] J. Shao, L. Wang and J. Yu, Development of an artificial fish-like robot and its application
