@@ -4,6 +4,7 @@
 * Purpose: Example of a Central Pattern Generator controlled Robotic Fish
 * Version: 1.0.0
 * Date: 23-11-2018
+* Created by: Martin Stokroos
 * URL: https://github.com/MartinStokroos/RoFish
 * License: MIT License
 *
@@ -12,7 +13,7 @@
 * example, the pattern is modified for a three joint robotic fish.
 *
 * Many suggestions for the construction of a mechanical framework for robotic fish with
-* linked RC-servo motors, are given in literature[2][3].
+* linked RC-servo motors, are described in literature[2][3].
 *
 * References:
 * [1] Saura, Garcia Carlos (2015). Central Pattern Generators for the control
