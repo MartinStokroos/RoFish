@@ -12,7 +12,7 @@
 * parameters were originally chosen for generating walking patterns of a micro-hexapod. In this
 * example, the pattern is modified for a three joint robotic fish.
 *
-* Many suggestions for the construction of a mechanical framework for robotic fish with
+* Many suggestions for the construction of a mechanical framework for a robotic fish with
 * linked RC-servo motors, are described in literature[2][3].
 *
 * References:
